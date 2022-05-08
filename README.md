@@ -34,7 +34,3 @@ forge test --fork-url=YOUR_MAINNET_RPC_URL
 
 - [@sinasab](https://github.com/sinasab) for alerting me of opportunity + nerd-sniping.
 - [/u/cryptoscopia](https://github.com/cryptoscopia) for [dydxFlashLoanTemplate.sol](https://gist.github.com/cryptoscopia/1156a368c19a82be2d083e04376d261e).
-
-## Disclaimer
-
-These smart contracts are being provided as is. No guarantee, representation or warranty is being made, express or implied, as to the safety or correctness of the user interface or the smart contracts. They have not been audited and as such there can be no assurance they will work as intended, and users may experience delays, failures, errors, omissions, loss of transmitted information or loss of funds. Anish Agnihotri is not liable for any of the foregoing. Users should proceed with caution and use at their own risk.
